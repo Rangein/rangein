@@ -8,34 +8,21 @@
 
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./assets/node.svg" width="36" height="36" alt="NODE" /></a>
-
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="./assets/vue.svg" width="36" height="36" alt="VUE" /></a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/js.svg" width="36" height="36" alt="JS" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./assets/ts.svg" width="36" height="36" alt="TS" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./assets/react.svg" width="36" height="36" alt="REACT" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="./assets/redux.svg" width="36" height="36" alt="REDUX" /></a>
-
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./assets/nextjs.svg" width="36" height="36" alt="NEXT" /></a>
-
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="./assets/nest.svg" width="36" height="36" alt="NEST" /></a>
-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./assets/mongo.svg" width="36" height="36" alt="MONGO" /></a>
-
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./assets/postgresql.svg" width="36" height="36" alt="postgresql" /></a>
-
 <a href="https://aws.amazon.com/ru/" target="_blank" rel="noreferrer"><img src="./assets/aws.svg" width="36" height="36" alt="AWS" /></a>
-
 <a href="https://dashboard.heroku.com" target="_blank" rel="noreferrer"><img src="./assets/heroku.svg" width="36" height="36" alt="heroku" /></a>
-
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./assets/firebase.svg" width="36" height="36" alt="firebase" /></a>
-
 <a href="google.com/" target="_blank" rel="noreferrer"><img src="./assets/google.svg" width="36" height="36" alt="google" /></a>
-
 <a href="https://www.godaddy.com/" target="_blank" rel="noreferrer"><img src="./assets/godaddy.svg" width="36" height="36" alt="godaddy" /></a>
-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./assets/mongo.svg" width="36" height="36" alt="MONGO" /></a>
-
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="./assets/sc.svg" width="36" height="36" alt="ST" /></a>  
 <a href="https://html5.org/" target="_blank" rel="noreferrer"><img src="./assets/html.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="./assets/css.svg" width="36" height="36" alt="CSS3" /></a>
