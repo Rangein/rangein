@@ -6,7 +6,6 @@
 ### Skills
 
 <p align="left">
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="./assets/vue.svg" width="36" height="36" alt="VUE" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/js.svg" width="36" height="36" alt="JS" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./assets/ts.svg" width="36" height="36" alt="TS" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./assets/react.svg" width="36" height="36" alt="REACT" /></a>
@@ -15,6 +14,7 @@
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="./assets/nest.svg" width="36" height="36" alt="NEST" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./assets/node.svg" width="36" height="36" alt="NODE" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./assets/mongo.svg" width="36" height="36" alt="MONGO" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="./assets/vue.svg" width="36" height="36" alt="VUE" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./assets/postgresql.svg" width="36" height="36" alt="postgresql" /></a>
 <a href="https://aws.amazon.com/ru/" target="_blank" rel="noreferrer"><img src="./assets/aws.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://dashboard.heroku.com" target="_blank" rel="noreferrer"><img src="./assets/heroku.svg" width="36" height="36" alt="heroku" /></a>
