@@ -42,8 +42,3 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="./assets/lnkd.svg" width="36" height="36" alt="Linkedin" /></a>
 </p>
 
-### YouTube
-
-<p align="left"> 
-  <a href="#" target="_blank" rel="noreferrer"><img src="./assets/youtube.svg" width="36" height="36" alt="YouTube" /></a>
-</p>
